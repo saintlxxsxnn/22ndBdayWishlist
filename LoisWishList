@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lois' Birthday Wishlist 🎂</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-pink-50 text-gray-800 font-sans">
+  <div class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold text-pink-600 mb-4 text-center">🎉 Happy Birthday to Me! 🎉</h1>
+    <p class="text-center text-lg mb-6">Hi! I'm Lois. First of all, thank you for checking this website and for your presence. You’re already a gift to me 🎁</p>
+
+    <h2 class="text-2xl font-semibold text-gray-700 mt-10 mb-4">🎈 My Wishlist (From Cheapest to Most Expensive)</h2>
+
+    <ul class="space-y-4">
+
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>🦪 Pearl Stud Earrings (5mm)</strong> – ₱145<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/Callie-14k-Gold-Plated-Pearl-Stud-Earrings-Shop.Callie-i.133729842.10703429254" target="_blank">Shopee Link</a>
+      </li>
+
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>📱 Leopard Print Magnetic Case (Option C)</strong> – ₱135<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/Magnetic-INS-Leopard-print-Mirror-hard-Phone-Case-Casing-For-IPhone-15-ProMax-15Pro-15-14-13-12-11-Pro-Max-Case-Fully-wrapped-shockproof-rear-Acrylic-cover-i.253084608.28458989198" target="_blank">Shopee Link</a>
+      </li>
+
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>👜 Plaid Short Wallet – Green Plaid</strong> – ₱222<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/Ready-Stock-Plaid-Short-Wallet-Bi-fold-Canvas-Card-Bag-Coin-Purse-i.153387801.28152921275" target="_blank">Shopee Link</a>
+      </li>
+
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>👛 Mini Leather Wallet – Pink</strong> – ₱239<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/Mini-Wallet-Women-Luxury-Leather-Wallets-Coin-Bag-Short-Hasp-Small-Woman-2023-Female-Clutch-i.105080047.22068552668" target="_blank">Shopee Link</a>
+      </li>
+
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>📱 Kensington Wildflower iPhone Case</strong> – ₱266<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/Kensington-Wildflower-lip-print-wf-Phone-Case-For-iPhone-16-16Pro-15-14-Plus-12-13-Pro-Max-Acrylic-Hard-Casing-Shockproof-Back-Cover-i.430289467.28803069932" target="_blank">Shopee Link</a>
+      </li>
+
+      <!-- You can continue adding the rest of your wishlist items in the same format -->
+      <!-- Example for TikTok item -->
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>🌸 IT GIRL & PICOLINA Perfume</strong> – ₱845<br/>
+        <a class="text-blue-600 underline" href="https://vt.tiktok.com/ZSSYAR3YN/" target="_blank">TikTok Link</a>
+      </li>
+
+      <!-- Most expensive item -->
+      <li class="bg-white p-4 rounded-xl shadow">
+        <strong>⌚ CASIO Ladies Gold Watch (LTP-V007G-9B)</strong> – ₱2,099<br/>
+        <a class="text-blue-600 underline" href="https://shopee.ph/CASIO-LADIES-GOLD-LTP-V007G-9B-i.37482048.4579973735" target="_blank">Shopee Link</a>
+      </li>
+
+    </ul>
+
+    <div class="mt-12 text-center">
+      <h3 class="text-xl font-semibold mb-2">💌 Final Message</h3>
+      <p class="text-gray-700">This is just a fun way to share what I love. No pressure at all! Thank you for being part of my life. I’m super grateful for you. 💖</p>
+    </div>
+  </div>
+</body>
+</html>
